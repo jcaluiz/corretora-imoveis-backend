@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "uploadimoveis",
+  "private_key_id": "8f72fb497430e302a5cb9c117c7a9cff63cd270c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCv9ecNnGtMg4oz\nyxrwOqqbiPSXuAWXKuI0zhOxwDlay28ej/n8LvR/Gm6OiZUAd8lgbx/mDOsU0WV2\n4Fb70++or9pPULsApSqxF4MpHrfEwF64NqmxevD0kHL3aCpuYE1gmPk68IwPF4i3\n07PK3aGSMt9pAZ0sKv0ODo2Zz0k2CD5JKTuN2ds1EFepnciJV2D39LqxAXT+5giy\nMxrmGovBGSqS930LRuqR7Pv5Y/lBWcRCsho8tc7lqy7UdfYncbLAfokti0mmkMJY\nfhfUEtziEAWSE/+BPmP1Zu9ztHvMyxbNiAMrBIzikTLKYHtv6kqXUf5nEB/uDuvL\nrslxXLUvAgMBAAECggEAHPrenfhCwmxGU7dswrShf/zzbmrJc5cwKvWR0CGnkJOW\nw9gp75B624AqmzZ/oCnFCdPjfgu8n/DIyZEIjRs1CnmZS/Iw369UM6x6q/K6M3Zi\nDew60IHos27NmyprFUNZGxgMBtqym+hgBQlMlZR2VXzOx3Lo7ur5mIS/FN5LNtGo\nELresrSbg1fLwd03Kdn/Bs2IQzxitonqhrLrHuVQw3hVdDOF0Rs8m4G+66N2fnpl\nShDPMO1XyZYF5bIFfwgeOMlhbPcOgUayfExRN0oSTdiH1dWDfPyKVuceQL+fB0RX\naCh+EjACUiZUryQRDmpF4TxK4v9vnyIjuKSQ2NCNcQKBgQD2C2sCsyUruC7OIhk2\nrL9teMP2dabolyHrtn1KDj/NG4rXMD94hvJ53nH01T5gGbuyFhWWSEVqlaF49M43\np2LtgP7zrQ7rWX4RnijK/yg74rOISAMEAYGOY7rAeH1vHlQTPsfVUb6VNf6c87Qm\nP7o5Ejv0tmJLO4jtuKQ/fYmhGQKBgQC3FIoIfwu5VPDtdbDVhsWD/UKTr/lAitps\nCw2JJC7nI0PQj/j60TqeWQdvFhzd9gC52Mp/cF3gCozBLYWoSpdu6w6q1Oay9w1m\nKOjNtvJKmqb+dm0By8aPA7IuLZYZZZRudPTLjgHs5w18avw9mfv2NXZD5OnSXAnx\n5Yc185HphwKBgQDIk5JPBx+8Pk/Zty56xeTgJ10JI+xHHD2I3KHSpz8Xw+YxeqGj\nbc9pzg90GgrZaOD8UsiSVKRSOV0DL/6UnB4no8szdtb8wV3mmtqCcfOorizRYnMi\n5t9o5qAtm4wV89FyRvG9UwBcv0GrTXiE3dq//79kxPHohsYflTBAmeSCsQKBgQCd\nrm34RVvWoqbjDjNgpLPnKzC1PKHjifP3jEl7LZPL9V6J+gZKF/xxt2IkthnkveUA\nLAy0WBYySUPTeZ6dRKlKmd7HGZkc2JVMwL1JuGDUCoD7twnJuzVnpZpIFXEqrId7\n3vWbf9J+tL2zw/0+HSqaco9KiJUuXaEfGz4qJH8ubwKBgDZd2LdHhjtVGlJR6anC\nrEad41B2XaTFUvTNtN2kQFb0phqJVUaostOdpNFkEt0qV6ap83xkaetkDaRJXTcx\nKBNUZbyeXN1oBnDUB3+MVsum6FirxeAyZgOG83g8CckIXSOxB4zX6Emo8+ANGlf6\nkRiT3Kv8l67vDMzLNDiLyUWc\n-----END PRIVATE KEY-----\n",
+  "client_email": "imoveis@uploadimoveis.iam.gserviceaccount.com",
+  "client_id": "117892331591063495090",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/imoveis%40uploadimoveis.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
