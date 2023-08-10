@@ -1,3 +1,4 @@
+import 'dotenv/config';
 import express from 'express';
 // import ErrorHandler from './Middlewares/ErrorHandler';
 import routes from './routes/Routes';
@@ -26,10 +27,10 @@ export default class App {
         // };
         const corsOptions = {
             origin: [
-                'https://vr-autopecas.vercel.app',
-                'https://dashboard-python-production.up.railway.app/api/upload-excel',
+                process.env.FRONT_URL as string,
                 'http://localhost:3000',
-                'http://127.0.0.1:5000/api/upload-excel',
+                'http://localhost:3006',
+                process.env.BACK_URL as string,
             ]
         };
 
